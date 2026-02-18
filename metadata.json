@@ -1,0 +1,8 @@
+{
+  "name": "Mother of God Cathedral - Sacred ",
+  "description": "A cinematic, immersive digital sanctuary presenting the spiritual heritage and history of the Mother of God Cathedral.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
